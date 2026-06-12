@@ -5,4 +5,5 @@ int sum(){
 }
 int main(){
   cout<<"main file";
+  cout<<"new line";
 }
